@@ -12,6 +12,7 @@ SharedAccessSignature sig={signature-string}&se={expiry}&skn={policyName}&sr={UR
 >{signature} ：An HMAC-SHA256 signature string of the form: {URL-encoded-resourceURI} + "\n" + expiry. Important: **The key is decoded from >base64 and used as key** to perform the HMAC-SHA256 computation.
 再来看Azure Service Bus 的[官方文档][2]说明：
 >The signature for the SAS token is computed using the HMAC-SHA256 hash of a string-to-sign **with the PrimaryKey property of an authorization rule**.
+
 两者的区别在于是否需要对秘钥进行decode。代码分别如下：
 ```csharp
 HMACSHA256 hmac = new HMACSHA256(Convert.FromBase64String(key)); // decode the key
