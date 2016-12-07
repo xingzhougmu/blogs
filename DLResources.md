@@ -9,7 +9,7 @@
 6. [Standford CS231: Convolutional Neural Networks for Visual Recognition by Fei-fei Li (Stanford)](http://cs231n.github.io/)
 
 ## Deep Learning Frameworks
-<img align="left" src="./img/caffe.png">
+[<img align="left" src="./img/caffe.png">](http://caffe.berkeleyvision.org/)
 Caffe is a deep learning framework made with expression, speed, and modularity in mind. Caffe is developed by the Berkeley Vision and Learning Center (BVLC), as well as community contributors and is popular for computer vision.
 
 Caffe supports cuDNN v5 for GPU acceleration.
@@ -20,7 +20,7 @@ Supported interfaces: C, C++, Python, MATLAB, Command line interface
 - Deep learning course: [Getting Started with the Caffe Framework](https://developer.nvidia.com/deep-learning-courses)
   
 --
-<img align="left" src="./img/tensorflow.png">
+[<img align="left" src="./img/tensorflow.png">](https://www.tensorflow.org/)
 TensorFlow is a software library for numerical computation using data flow graphs, developed by Google’s Machine Intelligence research organization.
 
 TensorFlow supports cuDNN v5.1 for GPU acceleration.
@@ -28,7 +28,7 @@ TensorFlow supports cuDNN v5.1 for GPU acceleration.
 Supported interfaces: C++, Python
 
 --
-<img align="left" src="./img/torch.png">
+[<img align="left" src="./img/torch.png">](http://torch.ch/)
 Torch is a scientific computing framework that offers wide support for machine learning algorithms.
 
 Torch supports cuDNN v5 for GPU acceleration.
