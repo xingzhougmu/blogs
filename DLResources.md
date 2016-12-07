@@ -17,5 +17,6 @@ Caffe supports cuDNN v5 for GPU acceleration.
 Supported interfaces: C, C++, Python, MATLAB, Command line interface
 
 **Learning Resources** 
-  - Deep learning course: [Getting Started with the Caffe Framework](https://developer.nvidia.com/deep-learning-courses)
+- Deep learning course: [Getting Started with the Caffe Framework](https://developer.nvidia.com/deep-learning-courses)
+  
 --
