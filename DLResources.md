@@ -34,3 +34,6 @@ Torch is a scientific computing framework that offers wide support for machine l
 Torch supports cuDNN v5 for GPU acceleration.
 
 Supported interfaces: C, C++, Lua
+
+**Learning Resources** 
+- Deep learning course: [Getting Started with the Torch Framework](https://developer.nvidia.com/deep-learning-frameworks)
