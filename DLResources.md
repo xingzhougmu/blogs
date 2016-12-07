@@ -20,3 +20,17 @@ Supported interfaces: C, C++, Python, MATLAB, Command line interface
 - Deep learning course: [Getting Started with the Caffe Framework](https://developer.nvidia.com/deep-learning-courses)
   
 --
+<img align="left" src="./img/tensorflow.png">
+TensorFlow is a software library for numerical computation using data flow graphs, developed by Google’s Machine Intelligence research organization.
+
+TensorFlow supports cuDNN v5.1 for GPU acceleration.
+
+Supported interfaces: C++, Python
+
+--
+<img align="left" src="./img/torch.png">
+Torch is a scientific computing framework that offers wide support for machine learning algorithms.
+
+Torch supports cuDNN v5 for GPU acceleration.
+
+Supported interfaces: C, C++, Lua
