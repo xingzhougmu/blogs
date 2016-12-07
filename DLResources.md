@@ -9,4 +9,13 @@
 6. [Standford CS231: Convolutional Neural Networks for Visual Recognition by Fei-fei Li (Stanford)](http://cs231n.github.io/)
 
 ## Deep Learning Frameworks
+<img align="left" src="./img/caffe.png">
+Caffe is a deep learning framework made with expression, speed, and modularity in mind. Caffe is developed by the Berkeley Vision and Learning Center (BVLC), as well as community contributors and is popular for computer vision.
 
+Caffe supports cuDNN v5 for GPU acceleration.
+
+Supported interfaces: C, C++, Python, MATLAB, Command line interface
+
+**Learning Resources** 
+  - Deep learning course: [Getting Started with the Caffe Framework](https://developer.nvidia.com/deep-learning-courses)
+--
