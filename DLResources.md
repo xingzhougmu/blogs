@@ -42,5 +42,6 @@ Supported interfaces: C, C++, Lua
 1. **Machine Learning Yearning** by Andrew Ng
   - [Chapter 1-12](./pdf/Machine_Learning_Yearning_V0.5_01.pdf)
   - [Chapter 13](./pdf/Machine_Learning_Yearning_V0.5_01.pdf)
- 
-  > You can also sign up for a free draft copy [here](http://www.mlyearning.org/).
+ ```
+  You can also sign up for a free draft copy [here](http://www.mlyearning.org/).
+```
