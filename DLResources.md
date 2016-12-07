@@ -1,4 +1,4 @@
-# Deep Learning Resources
+# AI Resources
 ## Deep Learning Classes and Cources
 1. [CS229: Machine Learning by Andrew Ng (Baidu)](http://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 2. [Deep Learning at Oxford by Nando de Freitas (University of Oxford)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
@@ -37,3 +37,10 @@ Supported interfaces: C, C++, Lua
 
 **Learning Resources** 
 - Deep learning course: [Getting Started with the Torch Framework](https://developer.nvidia.com/deep-learning-frameworks)
+
+## Machine Learning Resources
+1. **Machine Learning Yearning** by Andrew Ng
+  - [Chapter 1-12](./pdf/Machine_Learning_Yearning_V0.5_01.pdf)
+  - [Chapter 13](./pdf/Machine_Learning_Yearning_V0.5_01.pdf)
+ 
+  > You can also sign up for a free draft copy [here](http://www.mlyearning.org/).
