@@ -41,6 +41,7 @@ Supported interfaces: C, C++, Lua
 ## Machine Learning Resources
 1. **Machine Learning Yearning** by Andrew Ng
   - [Chapter 1-12](./pdf/Machine_Learning_Yearning_V0.5_01.pdf)
-  - [Chapter 13](./pdf/Machine_Learning_Yearning_V0.5_01.pdf)
+  - [Chapter 13](./pdf/Machine_Learning_Yearning_V0.5_02.pdf)
+  - [Chapter 14](./pdf/Machine_Learning_Yearning_V0.5_03.pdf)
 
   > You can also sign up for a free draft copy [here](http://www.mlyearning.org/).
